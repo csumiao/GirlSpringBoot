@@ -1,4 +1,4 @@
-package com.miao.girl;
+package com.miao.girl.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.PropertySource;

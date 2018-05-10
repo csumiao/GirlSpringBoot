@@ -1,5 +1,6 @@
-package com.miao.girl;
+package com.miao.girl.repository;
 
+import com.miao.girl.domain.Girl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

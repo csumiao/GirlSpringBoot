@@ -1,5 +1,7 @@
-package com.miao.girl;
+package com.miao.girl.service;
 
+import com.miao.girl.domain.Girl;
+import com.miao.girl.repository.GirlRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
